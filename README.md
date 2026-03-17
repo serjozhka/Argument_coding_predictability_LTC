@@ -3,6 +3,10 @@ This archive contains supplementary materials for the paper entitled “Cross-li
 
 This repository is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the material, provided appropriate credit is given.
 
+If you use this dataset, please cite:
+Say, Sergey. 2026. Dataset for “Cross-linguistic argument-coding predictability and the lexical meaning of the verb”. GitHub repository.
+
+
 # 1_Input_data
 1. Several spreadsheets containing data used as input for the analysis
 
